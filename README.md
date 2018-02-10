@@ -1,3 +1,3 @@
 # hello-world
 hello world tutorial
-changed for the experience
+Hello out there! This is Lefty talking to himself because no one else is around to listen.
